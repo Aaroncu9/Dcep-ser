@@ -4,10 +4,8 @@ import com.fox.dcep.common.result.ResultCodeEnum;
 import lombok.Data;
 
 /**
- * @Author: Aaron
- * @Description: 统一异常类
- * @Date: Created in 16:46 2023/7/13
- * @Modified by:
+ * @author : Aaron
+ * @since : Created in 16:42 2023/7/13
  */
 @Data
 public class SysException extends RuntimeException {

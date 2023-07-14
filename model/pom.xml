@@ -35,7 +35,6 @@
             <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
             <scope>provided</scope>
         </dependency>
-
     </dependencies>
 
 </project>
